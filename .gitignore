@@ -1,0 +1,74 @@
+# created by virtualenv automatically
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+bin/
+scripts/
+src/
+*.egg-info/
+.installed
+*.egg
+MANIFEST
+
+# PyInstaller
+# The .spec file is read only at build time. You can edit it but
+# should merge such changes back into the template file manually,
+# as well as re-generating the .spec file when needed.
+# http://pyinstaller.readthedocs.io/en/stable/usage.html#development-workflow
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+ 
